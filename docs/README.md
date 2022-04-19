@@ -1,6 +1,6 @@
 # DOGether Project
 
-![alt Dog-gether Project](https://media4.giphy.com/media/5pYo6sWTaoHs7pnXaK/giphy.gif?cid=790b7611a28877ae0261da796d547ba830a995f722c0ba75&rid=giphy.gif&ct=g)
+![alt DOGether Project](./images/giphy.gif)
 
 
 ## Intro
